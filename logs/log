@@ -1,0 +1,475 @@
+
+
+
+Started Add Local User Test on 2015/06/01 10:16:17
+
+User #1 have added User #2 to local address book
+User #2 have added User #3 to local address book
+User #3 have added User #4 to local address book
+User #4 have added User #5 to local address book
+User #5 have added User #6 to local address book
+User #6 have added User #7 to local address book
+User #7 have added User #8 to local address book
+User #8 have added User #9 to local address book
+User #9 have added User #10 to local address book
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/01 10:16:17
+
+
+Started Login Test on 2015/06/01 10:16:17
+
+Authenticated Users #1 #2 #3 #4 #5 #6 #7 #8 #9 #10 with correct passwords, and authentication failed with a wrong password
+All test passed on 2015/06/01 10:16:17
+
+
+Started Block User Test on 2015/06/01 10:16:17
+
+User #1 have blocked User #2 
+User #2 have blocked User #3 
+User #3 have blocked User #4 
+User #4 have blocked User #5 
+User #5 have blocked User #6 
+User #6 have blocked User #7 
+User #7 have blocked User #8 
+User #8 have blocked User #9 
+User #9 have blocked User #10 
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/01 10:16:17
+
+
+Started Unblock User Test on 2015/06/01 10:16:17
+
+User #1 have unblocked User #2 
+User #2 have unblocked User #3 
+User #3 have unblocked User #4 
+User #4 have unblocked User #5 
+User #5 have unblocked User #6 
+User #6 have unblocked User #7 
+User #7 have unblocked User #8 
+User #8 have unblocked User #9 
+User #9 have unblocked User #10 
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/01 10:16:17
+
+
+Started Send Text Message Test on 2015/06/01 10:16:17
+
+User #1 have sent a text message to User #2 
+User #2 have sent a text message to User #3 
+User #3 have sent a text message to User #4 
+User #4 have sent a text message to User #5 
+User #5 have sent a text message to User #6 
+User #6 have sent a text message to User #7 
+User #7 have sent a text message to User #8 
+User #8 have sent a text message to User #9 
+User #9 have sent a text message to User #10 
+
+All tests passed on 2015/06/01 10:16:17
+
+
+Started Send File Message Test on 2015/06/01 10:16:17
+
+User #1 have sent a file to User #2 
+User #2 have sent a file to User #3 
+User #3 have sent a file to User #4 
+User #4 have sent a file to User #5 
+User #5 have sent a file to User #6 
+User #6 have sent a file to User #7 
+User #7 have sent a file to User #8 
+User #8 have sent a file to User #9 
+User #9 have sent a file to User #10 
+
+All tests passed on 2015/06/01 10:16:17
+
+
+Started Password Change Test on 2015/06/01 10:16:17
+
+User #1 updates : Wrong password tried, Password is changed, Old password tried; thus failed to change, Reverted to old password.
+User #2 updates : Wrong password tried, Password is changed, Old password tried; thus failed to change, Reverted to old password.
+User #3 updates : Wrong password tried, Password is changed, Old password tried; thus failed to change, Reverted to old password.
+All tests passed on 2015/06/01 10:16:18
+
+
+Started Status Test on 2015/06/01 10:16:18
+Setup
+
+User #1's status is set to 'Available'
+User #2's status is set to 'Busy'
+User #3's status is set to 'Idle'
+User #4's status is set to 'Offline'
+User #5's status is set to 'Available'
+User #6's status is set to 'Busy'
+User #7's status is set to 'Idle'
+User #8's status is set to 'Offline'
+User #9's status is set to 'Available'
+User #10's status is set to 'Busy'
+Testing
+
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 User #10 
+All test passed on 2015/06/01 10:16:18
+
+
+Started Delete Local User Test on 2015/06/01 10:16:18
+
+User #1 have deleted User #2 from local address book
+User #2 have deleted User #3 from local address book
+User #3 have deleted User #4 from local address book
+User #4 have deleted User #5 from local address book
+User #5 have deleted User #6 from local address book
+User #6 have deleted User #7 from local address book
+User #7 have deleted User #8 from local address book
+User #8 have deleted User #9 from local address book
+User #9 have deleted User #10 from local address book
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/01 10:16:18
+
+
+Started Add Local User Test on 2015/06/02 12:11:53
+
+User #1 have added User #2 to local address book
+User #2 have added User #3 to local address book
+User #3 have added User #4 to local address book
+User #4 have added User #5 to local address book
+User #5 have added User #6 to local address book
+User #6 have added User #7 to local address book
+User #7 have added User #8 to local address book
+User #8 have added User #9 to local address book
+User #9 have added User #10 to local address book
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/02 12:11:54
+
+
+Started Login Test on 2015/06/02 12:11:54
+
+Authenticated Users #1 #2 #3 #4 #5 #6 #7 #8 #9 #10 with correct passwords, and authentication failed with a wrong password
+All test passed on 2015/06/02 12:11:54
+
+
+Started Block User Test on 2015/06/02 12:11:54
+
+User #1 have blocked User #2 
+User #2 have blocked User #3 
+User #3 have blocked User #4 
+User #4 have blocked User #5 
+User #5 have blocked User #6 
+User #6 have blocked User #7 
+User #7 have blocked User #8 
+User #8 have blocked User #9 
+User #9 have blocked User #10 
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/02 12:11:54
+
+
+Started Unblock User Test on 2015/06/02 12:11:54
+
+User #1 have unblocked User #2 
+User #2 have unblocked User #3 
+User #3 have unblocked User #4 
+User #4 have unblocked User #5 
+User #5 have unblocked User #6 
+User #6 have unblocked User #7 
+User #7 have unblocked User #8 
+User #8 have unblocked User #9 
+User #9 have unblocked User #10 
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/02 12:11:54
+
+
+Started Send Text Message Test on 2015/06/02 12:11:54
+
+User #1 have sent a text message to User #2 
+User #2 have sent a text message to User #3 
+User #3 have sent a text message to User #4 
+User #4 have sent a text message to User #5 
+User #5 have sent a text message to User #6 
+User #6 have sent a text message to User #7 
+User #7 have sent a text message to User #8 
+User #8 have sent a text message to User #9 
+User #9 have sent a text message to User #10 
+
+All tests passed on 2015/06/02 12:11:55
+
+
+Started Send File Message Test on 2015/06/02 12:11:55
+
+User #1 have sent a file to User #2 
+User #2 have sent a file to User #3 
+User #3 have sent a file to User #4 
+User #4 have sent a file to User #5 
+User #5 have sent a file to User #6 
+User #6 have sent a file to User #7 
+User #7 have sent a file to User #8 
+User #8 have sent a file to User #9 
+User #9 have sent a file to User #10 
+
+All tests passed on 2015/06/02 12:11:55
+
+
+Started Password Change Test on 2015/06/02 12:11:55
+
+User #1 updates : Wrong password tried, Password is changed, Old password tried; thus failed to change, Reverted to old password.
+User #2 updates : Wrong password tried, Password is changed, Old password tried; thus failed to change, Reverted to old password.
+User #3 updates : Wrong password tried, Password is changed, Old password tried; thus failed to change, Reverted to old password.
+All tests passed on 2015/06/02 12:11:55
+
+
+Started Status Test on 2015/06/02 12:11:55
+Setup
+
+User #1's status is set to 'Available'
+User #2's status is set to 'Busy'
+User #3's status is set to 'Idle'
+User #4's status is set to 'Offline'
+User #5's status is set to 'Available'
+User #6's status is set to 'Busy'
+User #7's status is set to 'Idle'
+User #8's status is set to 'Offline'
+User #9's status is set to 'Available'
+User #10's status is set to 'Busy'
+Testing
+
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 User #10 
+All test passed on 2015/06/02 12:11:55
+
+
+Started Delete Local User Test on 2015/06/02 12:11:55
+
+User #1 have deleted User #2 from local address book
+User #2 have deleted User #3 from local address book
+User #3 have deleted User #4 from local address book
+User #4 have deleted User #5 from local address book
+User #5 have deleted User #6 from local address book
+User #6 have deleted User #7 from local address book
+User #7 have deleted User #8 from local address book
+User #8 have deleted User #9 from local address book
+User #9 have deleted User #10 from local address book
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/02 12:11:55
+
+
+Started Login Test on 2015/06/02 12:17:34
+
+Authenticated Users #1 #12 #13 #14 #15 #16 #17 #18 #19 #20 with correct passwords, and authentication failed with a wrong password
+All test passed on 2015/06/02 12:17:35
+
+
+Started Unblock User Test on 2015/06/02 12:17:35
+
+User #1 have unblocked User #2 
+User #2 have unblocked User #3 
+User #3 have unblocked User #4 
+User #4 have unblocked User #5 
+User #5 have unblocked User #6 
+User #6 have unblocked User #7 
+User #7 have unblocked User #8 
+User #8 have unblocked User #9 
+User #9 have unblocked User #10 
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/02 12:17:35
+
+
+Started Password Change Test on 2015/06/02 12:17:35
+
+User #1 updates : Wrong password tried, Password is changed, Old password tried; thus failed to change, Reverted to old password.
+User #2 updates : Wrong password tried, Password is changed, Old password tried; thus failed to change, Reverted to old password.
+User #3 updates : Wrong password tried, Password is changed, Old password tried; thus failed to change, Reverted to old password.
+All tests passed on 2015/06/02 12:17:35
+
+
+Started Status Test on 2015/06/02 12:17:35
+Setup
+
+User #1's status is set to 'Available'
+Testing
+
+Tests done for User #1 
+All test passed on 2015/06/02 12:17:35
+
+
+Started Delete Local User Test on 2015/06/02 12:17:36
+
+User #1 have deleted User #2 from local address book
+User #2 have deleted User #3 from local address book
+User #3 have deleted User #4 from local address book
+User #4 have deleted User #5 from local address book
+User #5 have deleted User #6 from local address book
+User #6 have deleted User #7 from local address book
+User #7 have deleted User #8 from local address book
+User #8 have deleted User #9 from local address book
+User #9 have deleted User #10 from local address book
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/02 12:17:36
+
+
+Started Login Test on 2015/06/02 12:18:02
+
+Authenticated Users #1 #21 #22 #23 #24 #25 #26 #27 #28 #29 with correct passwords, and authentication failed with a wrong password
+All test passed on 2015/06/02 12:18:02
+
+
+Started Unblock User Test on 2015/06/02 12:18:02
+
+User #1 have unblocked User #2 
+User #2 have unblocked User #3 
+User #3 have unblocked User #4 
+User #4 have unblocked User #5 
+User #5 have unblocked User #6 
+User #6 have unblocked User #7 
+User #7 have unblocked User #8 
+User #8 have unblocked User #9 
+User #9 have unblocked User #10 
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/02 12:18:02
+
+
+Started Password Change Test on 2015/06/02 12:18:03
+
+User #1 updates : Wrong password tried, Password is changed, Old password tried; thus failed to change, Reverted to old password.
+User #2 updates : Wrong password tried, Password is changed, Old password tried; thus failed to change, Reverted to old password.
+User #3 updates : Wrong password tried, Password is changed, Old password tried; thus failed to change, Reverted to old password.
+All tests passed on 2015/06/02 12:18:03
+
+
+Started Status Test on 2015/06/02 12:18:03
+Setup
+
+User #1's status is set to 'Available'
+Testing
+
+Tests done for User #1 
+All test passed on 2015/06/02 12:18:03
+
+
+Started Delete Local User Test on 2015/06/02 12:18:03
+
+User #1 have deleted User #2 from local address book
+User #2 have deleted User #3 from local address book
+User #3 have deleted User #4 from local address book
+User #4 have deleted User #5 from local address book
+User #5 have deleted User #6 from local address book
+User #6 have deleted User #7 from local address book
+User #7 have deleted User #8 from local address book
+User #8 have deleted User #9 from local address book
+User #9 have deleted User #10 from local address book
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/02 12:18:03
+
+
+Started Unblock User Test on 2015/06/02 12:18:28
+
+User #1 have unblocked User #2 
+User #2 have unblocked User #3 
+User #3 have unblocked User #4 
+User #4 have unblocked User #5 
+User #5 have unblocked User #6 
+User #6 have unblocked User #7 
+User #7 have unblocked User #8 
+User #8 have unblocked User #9 
+User #9 have unblocked User #10 
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/02 12:18:28
+
+
+Started Delete Local User Test on 2015/06/02 12:18:28
+
+User #1 have deleted User #2 from local address book
+User #2 have deleted User #3 from local address book
+User #3 have deleted User #4 from local address book
+User #4 have deleted User #5 from local address book
+User #5 have deleted User #6 from local address book
+User #6 have deleted User #7 from local address book
+User #7 have deleted User #8 from local address book
+User #8 have deleted User #9 from local address book
+User #9 have deleted User #10 from local address book
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/02 12:18:29
+
+
+Started Unblock User Test on 2015/06/02 12:27:48
+
+User #1 have unblocked User #2 
+User #2 have unblocked User #3 
+User #3 have unblocked User #4 
+User #4 have unblocked User #5 
+User #5 have unblocked User #6 
+User #6 have unblocked User #7 
+User #7 have unblocked User #8 
+User #8 have unblocked User #9 
+User #9 have unblocked User #10 
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/02 12:27:48
+
+
+Started Delete Local User Test on 2015/06/02 12:27:49
+
+User #1 have deleted User #2 from local address book
+User #2 have deleted User #3 from local address book
+User #3 have deleted User #4 from local address book
+User #4 have deleted User #5 from local address book
+User #5 have deleted User #6 from local address book
+User #6 have deleted User #7 from local address book
+User #7 have deleted User #8 from local address book
+User #8 have deleted User #9 from local address book
+User #9 have deleted User #10 from local address book
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/02 12:27:49
+
+
+Started Unblock User Test on 2015/06/02 12:39:28
+
+User #1 have unblocked User #2 
+User #2 have unblocked User #3 
+User #3 have unblocked User #4 
+User #4 have unblocked User #5 
+User #5 have unblocked User #6 
+User #6 have unblocked User #7 
+User #7 have unblocked User #8 
+User #8 have unblocked User #9 
+User #9 have unblocked User #10 
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/02 12:39:28
+
+
+Started Delete Local User Test on 2015/06/02 12:39:29
+
+User #1 have deleted User #2 from local address book
+User #2 have deleted User #3 from local address book
+User #3 have deleted User #4 from local address book
+User #4 have deleted User #5 from local address book
+User #5 have deleted User #6 from local address book
+User #6 have deleted User #7 from local address book
+User #7 have deleted User #8 from local address book
+User #8 have deleted User #9 from local address book
+User #9 have deleted User #10 from local address book
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/02 12:39:29
+
+
+Started Unblock User Test on 2015/06/03 02:36:45
+
+User #1 have unblocked User #2 
+User #2 have unblocked User #3 
+User #3 have unblocked User #4 
+User #4 have unblocked User #5 
+User #5 have unblocked User #6 
+User #6 have unblocked User #7 
+User #7 have unblocked User #8 
+User #8 have unblocked User #9 
+User #9 have unblocked User #10 
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/03 02:36:45
+
+
+Started Delete Local User Test on 2015/06/03 02:36:46
+
+User #1 have deleted User #2 from local address book
+User #2 have deleted User #3 from local address book
+User #3 have deleted User #4 from local address book
+User #4 have deleted User #5 from local address book
+User #5 have deleted User #6 from local address book
+User #6 have deleted User #7 from local address book
+User #7 have deleted User #8 from local address book
+User #8 have deleted User #9 from local address book
+User #9 have deleted User #10 from local address book
+Tests done for User #1 User #2 User #3 User #4 User #5 User #6 User #7 User #8 User #9 
+All tests passed on 2015/06/03 02:36:46
